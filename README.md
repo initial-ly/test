@@ -1,3 +1,3 @@
 # test
-my first repository
-this is a test
+测试
+这是我的第一个仓库
